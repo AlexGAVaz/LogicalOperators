@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DF3A9B7529AD8D4B006357CA /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DF3A9B7429AD8D4B006357CA /* main.cpp */; };
+		DF3A9B7529AD8D4B006357CA /* LogicalOperators.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DF3A9B7429AD8D4B006357CA /* LogicalOperators.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		DF3A9B7129AD8D4B006357CA /* LogicalOperators */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LogicalOperators; sourceTree = BUILT_PRODUCTS_DIR; };
-		DF3A9B7429AD8D4B006357CA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DF3A9B7429AD8D4B006357CA /* LogicalOperators.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LogicalOperators.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		DF3A9B7329AD8D4B006357CA /* LogicalOperators */ = {
 			isa = PBXGroup;
 			children = (
-				DF3A9B7429AD8D4B006357CA /* main.cpp */,
+				DF3A9B7429AD8D4B006357CA /* LogicalOperators.cpp */,
 			);
 			path = LogicalOperators;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DF3A9B7529AD8D4B006357CA /* main.cpp in Sources */,
+				DF3A9B7529AD8D4B006357CA /* LogicalOperators.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
